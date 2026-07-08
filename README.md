@@ -1,2 +1,1 @@
-My First Git Repository
-Learning Git and Github
+Community Classroom OP
